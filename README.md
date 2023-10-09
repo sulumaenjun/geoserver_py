@@ -1,5 +1,7 @@
 # geoserver
 基于```geoserver-restconfig```封装的```geoserver```发布服务类，支持```shp```和```tif```两种数据
+# 解释说明
+https://blog.csdn.net/u014523388/article/details/131048814
 
 # 文件说明
 
